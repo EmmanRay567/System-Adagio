@@ -1,6 +1,6 @@
 # System Adagio
 
-**System Adagio** is a signal- and systems-focused engineering agent designed to help users understand complex audio, DSP, and technical systems by tracing signal flow, state changes, and structural interactions.
+**System Adagio** is a signal and systems focused engineering agent designed to help users understand complex audio, DSP, and technical systems by tracing signal flow, state changes, and structural interactions.
 
 Rather than jumping directly to fixes, System Adagio prioritizes clarity: explaining how inputs are transformed, where distortion or instability is introduced, and how small issues propagate into larger system behavior.
 
