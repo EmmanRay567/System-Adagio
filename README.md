@@ -4,6 +4,9 @@
 
 Rather than jumping directly to fixes, System Adagio prioritizes clarity: explaining how inputs are transformed, where distortion or instability is introduced, and how small issues propagate into larger system behavior.
 
+> **Personal Project**  
+> Designed and developed independently as an exploration of systems thinking, signal flow, and AI prompt engineering.
+
 ---
 
 ## Metaphysics
